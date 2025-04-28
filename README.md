@@ -13,7 +13,7 @@ Este projeto foi desenvolvido para ajudar empresas a monitorar, identificar e re
 📂 Histórico de ocorrências com registros detalhados.
 
 🛠️ Tecnologias Utilizadas
-Frontend: HTML5, CSS3, PHP
+Frontend: HTML5 e PHP
 
 Backend:  PHP 
 
