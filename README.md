@@ -1,4 +1,5 @@
 📦 Projeto de Prevenção de Perdas
+
 Bem-vindo ao repositório do Sistema de Prevenção de Perdas!
 Este projeto foi desenvolvido para ajudar empresas a monitorar, identificar e reduzir perdas operacionais, aumentando a eficiência e melhorando os resultados.
 
